@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/WeatherGraphsApp_MVC/.vs/WeatherGraphsApp_MVC
+/WeatherGraphsApp_MVC/weathergraphsapp_mvc.client/obj/Debug
+/WeatherGraphsApp_MVC/WeatherGraphsApp_MVC.Server/bin/Debug/net6.0
+/WeatherGraphsApp_MVC/WeatherGraphsApp_MVC.Server/obj/Debug/net6.0
+/WeatherGraphsApp_MVC/WeatherGraphsApp_MVC.Server/obj
+/WeatherGraphsApp_MVC/WeatherGraphsApp_MVC.Server/appsettings.json
+/WeatherGraphsApp_MVC/WeatherGraphsApp_MVC.Server/appsettings.Development.json
